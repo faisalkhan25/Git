@@ -1,1 +1,3 @@
 This is in master branch(initial).
+Now here i am done with the changes in the f1(E) file
+now i want to know which lines it would give as a conflict.
