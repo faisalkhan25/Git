@@ -1,1 +1,3 @@
 This is in master branch(initial).
+Now i am making changes and this is the f2 branch and
+checking does it give all the lines as conflict.
