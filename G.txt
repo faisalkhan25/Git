@@ -2,3 +2,5 @@ this file is make for learning git remotes internally.
 This is the second line of this file.
 This is the third line of this file.
 This is the fourth line of this file.
+This is the fifth line of this file.
+This is the sixth line of this file.
