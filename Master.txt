@@ -1,2 +1,3 @@
 This file is created to experiment with master branch.
 This is the second line of the master branch.
+This is the third line in master branch.
